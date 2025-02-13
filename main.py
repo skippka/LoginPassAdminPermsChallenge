@@ -111,7 +111,7 @@ def main():
         is_loggin = True
         print("Добро пожаловать в систему!")   
         print(f"Ваш баланс на данный момент - {balance}")
-        # default panel coming soon
+        # default panel coming soon.
     
     
     
